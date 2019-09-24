@@ -1,5 +1,6 @@
 # QA Engineer Exercise
 
+## Instructions ##
 Setup: 
 `npm install`
 
@@ -12,6 +13,7 @@ If you have any questions or need help, please email dl-pp-codechallenge-e2e@pay
 
 Please note: While we've provided the boilerplate for a test suite using mocha, you do not have to use it. 
 
+### Steps to test ###
 Open google.com  
 Check that the google logo is visible  
 Check there are two options present: "Google Search" and "I'm Feeling Lucky"  
